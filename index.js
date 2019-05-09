@@ -138,4 +138,4 @@ bot.on('message', async message => {
   });
 
 
-bot.login(process.env.NDk2MjgzNTM2NTk3NDUwNzYz.XNQEvA.F8rd63xltJquM2o_giq0oVBJAXI);
+bot.login(process.env.BOT_TOKEN);
